@@ -1,0 +1,113 @@
+Skin type,Concern,Sensitivity,Fragrance Preference,Degree of Concern,Product Link,"Rating (Not recommended, OK, Great, Excellent)"
+Oily,Oiliness,No,Don't care,Severe,https://www.sephora.com/product/the-moisturizing-matte-lotion-P421249?skuId=1982057&icid2=products grid:p421249:product,Great
+Oily,Oiliness,Yes,Don't care,Medium,https://www.sephora.com/product/skinfix-barrier-skin-barrier-lightweight-pore-refining-refillable-gel-cream-with-b-l3-P481739?skuId=2741007&icid2=products grid:p481739:product,Excellent
+Oily,Oiliness,Yes,No fragrance,Severe,https://www.sephora.com/product/the-inkey-list-omega-water-cream-moisturizer-P479354?skuId=2530756&icid2=products grid:p479354:product,Great
+Oily,Oiliness,No,Yes fragrance,Mild,https://www.sephora.com/product/the-inkey-list-omega-water-cream-moisturizer-P479354?skuId=2530756&icid2=products grid:p479354:product,Excellent
+Oily,Oiliness,Yes,Yes fragrance,Severe,https://www.sephora.com/product/herbivore-botanicals-aquarius-pore-purifying-clarity-cream-P474325?skuId=2469112&icid2=products grid:p474325:product,Ok
+Oily,Oiliness,No,Yes fragrance,Severe,https://www.sephora.com/product/the-inkey-list-omega-water-cream-moisturizer-P479354?skuId=2530756&icid2=products grid:p479354:product,Great
+Oily,Oiliness,Yes,Don't care,Medium,https://www.sephora.com/product/the-inkey-list-omega-water-cream-moisturizer-P479354?skuId=2530756&icid2=products grid:p479354:product,Great
+Oily,Acne,No,Don't care,Severe,https://www.sephora.com/product/u-f-o-ultra-clarifying-face-oil-P410400?skuId=1842251&icid2=products grid:p410400:product,Not recommended
+Oily,Acne,No,Don't care,Mild,https://www.sephora.com/product/the-inkey-list-c-50-blemish-night-treatment-P469544?skuId=2425080&icid2=products grid:p469544:product,Great
+Oily,Acne,Yes,No fragrance,Severe,https://www.sephora.com/product/u-f-o-ultra-clarifying-face-oil-P410400?skuId=1842251&icid2=products grid:p410400:product,Not recommended
+Oily,Acne,No,No fragrance,Medium,https://www.sephora.com/product/the-inkey-list-supersolutions-acne-clearing-moisturizer-2-novoretin-P506554?skuId=2673333&icid2=products grid:p506554:product,Great
+Oily,Acne,Yes,No fragrance,Severe,https://www.sephora.com/product/the-inkey-list-supersolutions-acne-clearing-moisturizer-2-novoretin-P506554?skuId=2673333&icid2=products grid:p506554:product,Ok
+Oily,Acne,No,Yes fragrance,Mild,https://www.sephora.com/product/ole-henriksen-cold-plunge-trade-pore-remedy-moisturizer-with-bha-P472050?skuId=2463388&icid2=products grid:p472050:product,Ok
+Oily,Acne,Yes,Yes fragrance,Severe,https://www.sephora.com/product/kiehls-expertly-clear-moisturizer-for-acne-prone-skin-with-salicylic-acid-P509461?skuId=2734788&icid2=products grid:p509461:product,Ok
+Oily,Dark Spots,No,Yes fragrance,Mild,https://www.sephora.com/product/caudalie-vinoperfect-instant-brightening-moisturizer-with-niacinamide-P471226?skuId=2450690&icid2=products grid:p471226:product,Great
+Oily,Dark Spots,Yes,Yes fragrance,Mild,https://www.sephora.com/product/major-fade-active-seal-dark-spot-vitamin-c-gel-moisturizer-P510561?skuId=2647568&icid2=products grid:p510561:product,Great
+Oily,Dark Spots,Yes,Don't care,Medium,https://www.sephora.com/product/c-rush-tm-brightening-gel-cr-me-P430337?skuId=2071751&icid2=products grid:p430337:product,Not recommended
+Oily,Dark Spots,No,No fragrance,Mild,https://www.sephora.com/product/major-fade-active-seal-dark-spot-vitamin-c-gel-moisturizer-P510561?skuId=2647568&icid2=products grid:p510561:product,Excellent
+Oily,Dark Spots,Yes,No fragrance,Mild,https://www.sephora.com/product/belif-aqua-bomb-brightening-vitamin-c-cream-P471535?skuId=2454627&icid2=products grid:p471535:product,Not recommended
+Oily,Dark Spots,No,No fragrance,Medium,https://www.sephora.com/product/c5-super-boost-vitamin-c-moisturizer-P501282?skuId=2533529&icid2=products grid:p501282:product,Excellent
+Oily,Dark Spots,No,Yes fragrance,Medium,https://www.sephora.com/product/major-fade-active-seal-dark-spot-vitamin-c-gel-moisturizer-P510561?skuId=2647568&icid2=products grid:p510561:product,Great
+Oily,Aging,Yes,No fragrance,Medium,https://www.sephora.com/product/caudalie-resveratrol-lift-firming-cashmere-moisturizer-P467750?skuId=2744316&icid2=products grid:p467750:product,Not recommended
+Oily,Aging,No,No fragrance,Mild,https://www.sephora.com/product/benefiance-wrinkle-smoothing-cream-enriched-P448202?skuId=2234102&icid2=products grid:p448202:product,Not recommended
+Oily,Aging,Yes,Yes fragrance,Severe,https://www.sephora.com/product/caudalie-resveratrol-lift-firming-cashmere-moisturizer-P467750?skuId=2744316&icid2=products grid:p467750:product,Ok
+Oily,Aging,Yes,Don't care,Severe,https://www.sephora.com/product/caudalie-resveratrol-lift-firming-cashmere-moisturizer-P467750?skuId=2744316&icid2=products grid:p467750:product,Not recommended
+Oily,Aging,No,No fragrance,Medium,https://www.sephora.com/product/first-aid-beauty-ultra-repair-firming-collagen-cream-with-peptides-niacinamide-P468821?skuId=2417269&icid2=products grid:p468821:product,Great
+Oily,Aging,No,Don't care,Medium,https://www.sephora.com/product/sulwhasoo-ginseng-renewing-cream-original-reform-P481833?skuId=2534964&icid2=products grid:p481833:product,Great
+Oily,Aging,Yes,Yes fragrance,Medium,https://www.sephora.com/product/fresh-black-tea-anti-aging-moisturizer-with-retinol-alternative-bt-matrix-P503936?skuId=2636660&icid2=products grid:p503936:product,Ok
+Combination,Oiliness,No,Don't care,Mild,https://www.sephora.com/product/the-inkey-list-omega-water-cream-moisturizer-P479354?skuId=2530756&icid2=products grid:p479354:product,Great
+Combination,Oiliness,Yes,Don't care,Severe,https://www.sephora.com/product/the-moisturizing-matte-lotion-P421249?skuId=1982057&icid2=products grid:p421249:product,Ok
+Combination,Oiliness,No,Yes fragrance,Severe,https://www.sephora.com/product/the-inkey-list-omega-water-cream-moisturizer-P479354?skuId=2530756&icid2=products grid:p479354:product,Excellent
+Combination,Oiliness,Yes,Yes fragrance,Medium,https://www.sephora.com/product/herbivore-botanicals-aquarius-pore-purifying-clarity-cream-P474325?skuId=2469112&icid2=products grid:p474325:product,Great
+Combination,Oiliness,Yes,No fragrance,Medium,https://www.sephora.com/product/the-inkey-list-omega-water-cream-moisturizer-P479354?skuId=2530756&icid2=products grid:p479354:product,Excellent
+Combination,Oiliness,No,Don't care,Mild,https://www.sephora.com/product/herbivore-botanicals-aquarius-pore-purifying-clarity-cream-P474325?skuId=2469112&icid2=products grid:p474325:product,Excellent
+Combination,Oiliness,No,Yes fragrance,Medium,https://www.sephora.com/product/the-inkey-list-omega-water-cream-moisturizer-P479354?skuId=2530756&icid2=products grid:p479354:product,Excellent
+Combination,Acne,No,Yes fragrance,Severe,https://www.sephora.com/product/the-inkey-list-supersolutions-acne-clearing-moisturizer-2-novoretin-P506554?skuId=2673333&icid2=products grid:p506554:product,Great
+Combination,Acne,No,Don't care,Medium,https://www.sephora.com/product/the-inkey-list-c-50-blemish-night-treatment-P469544?skuId=2425080&icid2=products grid:p469544:product,Ok
+Combination,Acne,No,No fragrance,Severe,https://www.sephora.com/product/ole-henriksen-cold-plunge-trade-pore-remedy-moisturizer-with-bha-P472050?skuId=2463388&icid2=products grid:p472050:product,Not recommended
+Combination,Acne,Yes,Yes fragrance,Medium,https://www.sephora.com/product/the-inkey-list-c-50-blemish-night-treatment-P469544?skuId=2425080&icid2=products grid:p469544:product,Ok
+Combination,Acne,No,No fragrance,Medium,https://www.sephora.com/product/kiehls-expertly-clear-moisturizer-for-acne-prone-skin-with-salicylic-acid-P509461?skuId=2734788&icid2=products grid:p509461:product,Great
+Combination,Acne,Yes,No fragrance,Medium,https://www.sephora.com/product/the-inkey-list-supersolutions-acne-clearing-moisturizer-2-novoretin-P506554?skuId=2673333&icid2=products grid:p506554:product,Ok
+Combination,Acne,Yes,Yes fragrance,Severe,https://www.sephora.com/product/ole-henriksen-cold-plunge-trade-pore-remedy-moisturizer-with-bha-P472050?skuId=2463388&icid2=products grid:p472050:product,Not recommended
+Combination,Aging,Yes,Yes fragrance,Medium,https://www.sephora.com/product/first-aid-beauty-ultra-repair-firming-collagen-cream-with-peptides-niacinamide-P468821?skuId=2417269&icid2=products grid:p468821:product,Great
+Combination,Aging,Yes,Don't care,Medium,https://www.sephora.com/product/first-aid-beauty-ultra-repair-firming-collagen-cream-with-peptides-niacinamide-P468821?skuId=2417269&icid2=products grid:p468821:product,Great
+Combination,Aging,No,Don't care,Severe,https://www.sephora.com/product/benefiance-wrinkle-smoothing-cream-enriched-P448202?skuId=2234102&icid2=products grid:p448202:product,Ok
+Combination,Aging,No,No fragrance,Mild,https://www.sephora.com/product/fresh-black-tea-anti-aging-moisturizer-with-retinol-alternative-bt-matrix-P503936?skuId=2636660&icid2=products grid:p503936:product,Ok
+Combination,Aging,Yes,Yes fragrance,Mild,https://www.sephora.com/product/caudalie-resveratrol-lift-firming-cashmere-moisturizer-P467750?skuId=2744316&icid2=products grid:p467750:product,Not recommended
+Combination,Aging,No,No fragrance,Severe,https://www.sephora.com/product/sulwhasoo-ginseng-renewing-cream-original-reform-P481833?skuId=2534964&icid2=products grid:p481833:product,Great
+Combination,Aging,No,No fragrance,Medium,https://www.sephora.com/product/fresh-black-tea-anti-aging-moisturizer-with-retinol-alternative-bt-matrix-P503936?skuId=2636660&icid2=products grid:p503936:product,Not recommended
+Combination,Dark Spots,No,Yes fragrance,Mild,https://www.sephora.com/product/caudalie-vinoperfect-instant-brightening-moisturizer-with-niacinamide-P471226?skuId=2450690&icid2=products grid:p471226:product,Great
+Combination,Dark Spots,Yes,Don't care,Medium,https://www.sephora.com/product/c-rush-tm-brightening-gel-cr-me-P430337?skuId=2071751&icid2=products grid:p430337:product,Not recommended
+Combination,Dark Spots,No,Yes fragrance,Medium,https://www.sephora.com/product/caudalie-vinoperfect-instant-brightening-moisturizer-with-niacinamide-P471226?skuId=2450690&icid2=products grid:p471226:product,Great
+Combination,Dark Spots,No,No fragrance,Mild,https://www.sephora.com/product/caudalie-vinoperfect-instant-brightening-moisturizer-with-niacinamide-P471226?skuId=2450690&icid2=products grid:p471226:product,Great
+Combination,Dark Spots,Yes,No fragrance,Mild,https://www.sephora.com/product/belif-aqua-bomb-brightening-vitamin-c-cream-P471535?skuId=2454627&icid2=products grid:p471535:product,Not recommended
+Combination,Dark Spots,Yes,No fragrance,Severe,https://www.sephora.com/product/belif-aqua-bomb-brightening-vitamin-c-cream-P471535?skuId=2454627&icid2=products grid:p471535:product,Not recommended
+Combination,Dark Spots,Yes,Don't care,Severe,https://www.sephora.com/product/c-rush-tm-brightening-gel-cr-me-P430337?skuId=2071751&icid2=products grid:p430337:product,Not recommended
+Normal,Acne,No,Don't care,Severe,https://www.sephora.com/product/the-inkey-list-supersolutions-acne-clearing-moisturizer-2-novoretin-P506554?skuId=2673333&icid2=products grid:p506554:product,Great
+Normal,Acne,Yes,Yes fragrance,Medium,https://www.sephora.com/product/u-f-o-ultra-clarifying-face-oil-P410400?skuId=1842251&icid2=products grid:p410400:product,Ok
+Normal,Acne,Yes,Yes fragrance,Medium,https://www.sephora.com/product/ole-henriksen-cold-plunge-trade-pore-remedy-moisturizer-with-bha-P472050?skuId=2463388&icid2=products grid:p472050:product,Ok
+Normal,Acne,No,No fragrance,Medium,https://www.sephora.com/product/ole-henriksen-cold-plunge-trade-pore-remedy-moisturizer-with-bha-P472050?skuId=2463388&icid2=products grid:p472050:product,Not recommended
+Normal,Acne,Yes,Yes fragrance,Severe,https://www.sephora.com/product/ole-henriksen-cold-plunge-trade-pore-remedy-moisturizer-with-bha-P472050?skuId=2463388&icid2=products grid:p472050:product,Ok
+Normal,Acne,No,Don't care,Mild,https://www.sephora.com/product/kiehls-expertly-clear-moisturizer-for-acne-prone-skin-with-salicylic-acid-P509461?skuId=2734788&icid2=products grid:p509461:product,Excellent
+Normal,Acne,No,Don't care,Severe,https://www.sephora.com/product/kiehls-expertly-clear-moisturizer-for-acne-prone-skin-with-salicylic-acid-P509461?skuId=2734788&icid2=products grid:p509461:product,Great
+Normal,Aging,Yes,No fragrance,Mild,https://www.sephora.com/product/benefiance-wrinkle-smoothing-cream-enriched-P448202?skuId=2234102&icid2=products grid:p448202:product,Not recommended
+Normal,Aging,Yes,No fragrance,Severe,https://www.sephora.com/product/sulwhasoo-ginseng-renewing-cream-original-reform-P481833?skuId=2534964&icid2=products grid:p481833:product,Not recommended
+Normal,Aging,No,Don't care,Medium,https://www.sephora.com/product/first-aid-beauty-ultra-repair-firming-collagen-cream-with-peptides-niacinamide-P468821?skuId=2417269&icid2=products grid:p468821:product,Excellent
+Normal,Aging,Yes,Yes fragrance,Mild,https://www.sephora.com/product/fresh-black-tea-anti-aging-moisturizer-with-retinol-alternative-bt-matrix-P503936?skuId=2636660&icid2=products grid:p503936:product,Ok
+Normal,Aging,No,No fragrance,Mild,https://www.sephora.com/product/caudalie-resveratrol-lift-firming-cashmere-moisturizer-P467750?skuId=2744316&icid2=products grid:p467750:product,Not recommended
+Normal,Aging,No,Don't care,Mild,https://www.sephora.com/product/benefiance-wrinkle-smoothing-cream-enriched-P448202?skuId=2234102&icid2=products grid:p448202:product,Ok
+Normal,Aging,Yes,Yes fragrance,Medium,https://www.sephora.com/product/sulwhasoo-ginseng-renewing-cream-original-reform-P481833?skuId=2534964&icid2=products grid:p481833:product,Ok
+Normal,Dark Spots,No,Yes fragrance,Mild,https://www.sephora.com/product/belif-aqua-bomb-brightening-vitamin-c-cream-P471535?skuId=2454627&icid2=products grid:p471535:product,Great
+Normal,Dark Spots,No,Don't care,Medium,https://www.sephora.com/product/c5-super-boost-vitamin-c-moisturizer-P501282?skuId=2533529&icid2=products grid:p501282:product,Excellent
+Normal,Dark Spots,No,No fragrance,Mild,https://www.sephora.com/product/caudalie-vinoperfect-instant-brightening-moisturizer-with-niacinamide-P471226?skuId=2450690&icid2=products grid:p471226:product,Great
+Normal,Dark Spots,Yes,Yes fragrance,Mild,https://www.sephora.com/product/belif-aqua-bomb-brightening-vitamin-c-cream-P471535?skuId=2454627&icid2=products grid:p471535:product,Ok
+Normal,Dark Spots,Yes,Don't care,Severe,https://www.sephora.com/product/c5-super-boost-vitamin-c-moisturizer-P501282?skuId=2533529&icid2=products grid:p501282:product,Great
+Normal,Dark Spots,Yes,Yes fragrance,Medium,https://www.sephora.com/product/c-rush-tm-brightening-gel-cr-me-P430337?skuId=2071751&icid2=products grid:p430337:product,Ok
+Normal,Dark Spots,No,No fragrance,Medium,https://www.sephora.com/product/caudalie-vinoperfect-instant-brightening-moisturizer-with-niacinamide-P471226?skuId=2450690&icid2=products grid:p471226:product,Great
+Normal,Dryness,Yes,No fragrance,Medium,https://www.sephora.com/product/the-dewy-skin-cream-P441101?skuId=2181006&icid2=products grid:p441101:product,Not recommended
+Normal,Dryness,No,Don't care,Severe,https://www.sephora.com/product/the-dewy-skin-cream-P441101?skuId=2181006&icid2=products grid:p441101:product,Ok
+Normal,Dryness,Yes,Yes fragrance,Severe,https://www.sephora.com/product/belif-the-true-cream-aqua-bomb-with-hyaluronic-acid-niacinamide-P510117?skuId=2742674&icid2=products grid:p510117:product,Not recommended
+Normal,Dryness,No,Don't care,Mild,https://www.sephora.com/product/belif-the-true-cream-aqua-bomb-with-hyaluronic-acid-niacinamide-P510117?skuId=2742674&icid2=products grid:p510117:product,Great
+Normal,Dryness,Yes,No fragrance,Medium,https://www.sephora.com/product/ultra-facial-cream-P421996?skuId=2663763&icid2=products grid:p421996:product,Ok
+Normal,Dryness,No,Yes fragrance,Severe,https://www.sephora.com/product/ultra-repair-cream-intense-hydration-P248407?skuId=1217744&icid2=products grid:p248407:product,Great
+Normal,Dryness,No,No fragrance,Medium,https://www.sephora.com/product/belif-the-true-cream-aqua-bomb-with-hyaluronic-acid-niacinamide-P510117?skuId=2742674&icid2=products grid:p510117:product,Not recommended
+Dry,Dryness,Yes,Yes fragrance,Medium,https://www.sephora.com/product/ultra-repair-cream-intense-hydration-P248407?skuId=1217744&icid2=products grid:p248407:product,Great
+Dry,Dryness,No,Yes fragrance,Severe,https://www.sephora.com/product/laneige-water-bank-blue-hyaluronic-cream-moisturizer-P482693?skuId=2735843&icid2=products grid:p482693:product,Ok
+Dry,Dryness,Yes,No fragrance,Medium,https://www.sephora.com/product/ultra-repair-cream-intense-hydration-P248407?skuId=1217744&icid2=products grid:p248407:product,Great
+Dry,Dryness,No,Don't care,Mild,https://www.sephora.com/product/ultra-repair-cream-intense-hydration-P248407?skuId=1217744&icid2=products grid:p248407:product,Excellent
+Dry,Dryness,No,No fragrance,Mild,https://www.sephora.com/product/belif-the-true-cream-aqua-bomb-with-hyaluronic-acid-niacinamide-P510117?skuId=2742674&icid2=products grid:p510117:product,Ok
+Dry,Dryness,No,No fragrance,Mild,https://www.sephora.com/product/ultra-facial-cream-P421996?skuId=2663763&icid2=products grid:p421996:product,Great
+Dry,Dryness,Yes,Don't care,Medium,https://www.sephora.com/product/laneige-water-bank-blue-hyaluronic-cream-moisturizer-P482693?skuId=2735843&icid2=products grid:p482693:product,Ok
+Dry,Dark Spots,No,Yes fragrance,Medium,https://www.sephora.com/product/caudalie-vinoperfect-instant-brightening-moisturizer-with-niacinamide-P471226?skuId=2450690&icid2=products grid:p471226:product,Great
+Dry,Dark Spots,Yes,Don't care,Severe,https://www.sephora.com/product/major-fade-active-seal-dark-spot-vitamin-c-gel-moisturizer-P510561?skuId=2647568&icid2=products grid:p510561:product,Great
+Dry,Dark Spots,No,No fragrance,Medium,https://www.sephora.com/product/c5-super-boost-vitamin-c-moisturizer-P501282?skuId=2533529&icid2=products grid:p501282:product,Excellent
+Dry,Dark Spots,Yes,No fragrance,Mild,https://www.sephora.com/product/caudalie-vinoperfect-instant-brightening-moisturizer-with-niacinamide-P471226?skuId=2450690&icid2=products grid:p471226:product,Not recommended
+Dry,Dark Spots,No,No fragrance,Mild,https://www.sephora.com/product/caudalie-vinoperfect-instant-brightening-moisturizer-with-niacinamide-P471226?skuId=2450690&icid2=products grid:p471226:product,Great
+Dry,Dark Spots,Yes,Yes fragrance,Medium,https://www.sephora.com/product/c-rush-tm-brightening-gel-cr-me-P430337?skuId=2071751&icid2=products grid:p430337:product,Ok
+Dry,Dark Spots,No,Don't care,Severe,https://www.sephora.com/product/belif-aqua-bomb-brightening-vitamin-c-cream-P471535?skuId=2454627&icid2=products grid:p471535:product,Great
+Dry,Acne,Yes,Yes fragrance,Severe,https://www.sephora.com/product/ole-henriksen-cold-plunge-trade-pore-remedy-moisturizer-with-bha-P472050?skuId=2463388&icid2=products grid:p472050:product,Ok
+Dry,Acne,Yes,No fragrance,Medium,https://www.sephora.com/product/ole-henriksen-cold-plunge-trade-pore-remedy-moisturizer-with-bha-P472050?skuId=2463388&icid2=products grid:p472050:product,Not recommended
+Dry,Acne,Yes,Don't care,Medium,https://www.sephora.com/product/the-inkey-list-supersolutions-acne-clearing-moisturizer-2-novoretin-P506554?skuId=2673333&icid2=products grid:p506554:product,Ok
+Dry,Acne,Yes,Don't care,Mild,https://www.sephora.com/product/kiehls-expertly-clear-moisturizer-for-acne-prone-skin-with-salicylic-acid-P509461?skuId=2734788&icid2=products grid:p509461:product,Great
+Dry,Acne,No,Don't care,Severe,https://www.sephora.com/product/the-inkey-list-c-50-blemish-night-treatment-P469544?skuId=2425080&icid2=products grid:p469544:product,Ok
+Dry,Acne,No,No fragrance,Severe,https://www.sephora.com/product/ole-henriksen-cold-plunge-trade-pore-remedy-moisturizer-with-bha-P472050?skuId=2463388&icid2=products grid:p472050:product,Not recommended
+Dry,Acne,No,Yes fragrance,Severe,https://www.sephora.com/product/u-f-o-ultra-clarifying-face-oil-P410400?skuId=1842251&icid2=products grid:p410400:product,Great
+Dry,Aging,No,Yes fragrance,Mild,https://www.sephora.com/product/sulwhasoo-ginseng-renewing-cream-original-reform-P481833?skuId=2534964&icid2=products grid:p481833:product,Great
+Dry,Aging,Yes,Yes fragrance,Mild,https://www.sephora.com/product/benefiance-wrinkle-smoothing-cream-enriched-P448202?skuId=2234102&icid2=products grid:p448202:product,Ok
+Dry,Aging,Yes,Don't care,Medium,https://www.sephora.com/product/benefiance-wrinkle-smoothing-cream-enriched-P448202?skuId=2234102&icid2=products grid:p448202:product,Ok
+Dry,Aging,No,No fragrance,Severe,https://www.sephora.com/product/fresh-black-tea-anti-aging-moisturizer-with-retinol-alternative-bt-matrix-P503936?skuId=2636660&icid2=products grid:p503936:product,Not recommended
+Dry,Aging,No,Don't care,Mild,https://www.sephora.com/product/sulwhasoo-ginseng-renewing-cream-original-reform-P481833?skuId=2534964&icid2=products grid:p481833:product,Great
+Dry,Aging,Yes,Don't care,Mild,https://www.sephora.com/product/benefiance-wrinkle-smoothing-cream-enriched-P448202?skuId=2234102&icid2=products grid:p448202:product,Ok
+Dry,Aging,Yes,No fragrance,Mild,https://www.sephora.com/product/fresh-black-tea-anti-aging-moisturizer-with-retinol-alternative-bt-matrix-P503936?skuId=2636660&icid2=products grid:p503936:product,Not recommended
