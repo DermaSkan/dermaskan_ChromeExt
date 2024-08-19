@@ -11,7 +11,7 @@ WORKDIR /code
 # Install dependencies
 COPY requirements.txt /code/
 RUN python -m venv venv
-RUN . venv/bin/activate && pip install --upgrade pip && pip install -r requirements.txt
+RUN . venv/bin/activate && pip install --upgrade pip && pip3 install -r requirements.txt
 
 # Copy project
 COPY . /code/
