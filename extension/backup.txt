@@ -1,0 +1,49 @@
+
+        var helloButton = document.createElement("button");
+        helloButton.textContent = "IS THIS PRODUCT RIGHT FOR ME?";
+        helloButton.onclick = function() {
+          fetch(chrome.runtime.getURL('popup.html'))
+            .then(response => response.text())
+            .then(data => {
+              const button = document.createElement('div');
+              button.style.backgroundColor = '#fff';
+              button.style.border = '1px solid #d95c54';
+              button.style.color = '#d95c54';
+              button.style.borderRadius = '20px';
+              button.style.padding = '5px 10px';
+              button.style.fontSize = '12px';
+              button.style.fontWeight = 'bold';
+              button.style.cursor = 'pointer';
+              button.style.marginTop = '10px';
+              button.style.marginBottom = '10px';
+              button.style.display = 'block';
+              button.style.width = '500px';
+              button.style.height = '750px';
+              button.style.textAlign = 'center';
+              button.style.boxShadow = '0px 1px 3px rgba(0, 0, 0, 0.2)';
+              button.style.position = 'fixed';
+              button.style.bottom = '20px';
+              button.style.right = '20px';
+              button.style.zIndex = '1000';
+              document.body.appendChild(button);
+              const link = document.createElement('link');
+              link.rel = 'stylesheet';
+              link.type = 'text/css';
+              link.href = chrome.runtime.getURL('popup.css');
+              button.appendChild(link);
+              const script = document.createElement('script');
+              script.src = chrome.runtime.getURL('popup.js');
+              button.appendChild(script);
+
+              document.getElementById('closePopup').onclick = function() {
+                document.body.removeChild(button);
+              };
+            })
+            .catch(error => console.error('Error loading popup:', error));
+        };
+
+        mainDiv.appendChild(helloButton);
+        console.log("Button appended to target div");
+        } else {
+        console.error("Main div not found");
+       }

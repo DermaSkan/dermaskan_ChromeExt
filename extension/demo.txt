@@ -1,0 +1,28 @@
+form.addEventListener('submit', function(event) {
+  event.preventDefault();
+  
+  const selectedOptions = Array.from(form.querySelectorAll('input[name="option"]:checked'));
+  
+  if (selectedOptions.length === 0) {
+    alert('Please select an option.');
+    return;
+  }
+
+  const questionText = questions[currentQuestionIndex].question;
+  answers[questionText] = selectedOptions.map(option => option.value);
+
+  if (currentQuestionIndex < questions.length - 1) {
+    currentQuestionIndex++;
+    loadQuestion(currentQuestionIndex);
+  } else {
+    console.log('Survey completed:', answers);
+    window.location.href = "loading.html";
+  }
+});
+
+backButton.addEventListener('click', function() {
+  if (currentQuestionIndex > 0) {
+    currentQuestionIndex--;
+    loadQuestion(currentQuestionIndex);
+  }
+});

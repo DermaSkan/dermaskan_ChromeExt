@@ -1,0 +1,41 @@
+<link href="popup.css" rel="stylesheet" type="text/css" />
+<script type="module" src="popup.js"></script>
+
+<div class="container">
+  <div class="popup-container">
+      <div class="logo">
+        <img src="assets/main.png" alt="Logo">
+        <div class="bookmarks" id="bookmarks"></div>
+      </div>
+      <button class="close-button">&times;</button>
+      <div class="popup-header">
+        <h1>Let's find out if this product will give you the desired results.</h1>
+        <p>This helps your profile take shape</p>
+        <div class="progress-bar">
+          <div class="progress" style="width: 17%;"></div>
+        </div>
+        <span class="progress-text">1/6</span>
+      </div>
+      <div class="popup-body">
+        <form id="questions-form" class="hidden">
+          <label for="question1"></label>
+          <div class="options">
+            <label><input type="checkbox" name="concern" value="Dryness"><span></span></label>
+            <label><input type="checkbox" name="concern" value="Dullness"><span></span></label>
+            <label><input type="checkbox" name="concern" value="Oiliness"><span></span></label>
+            <label><input type="checkbox" name="concern" value="Acne/blemishes"><span></span></label>
+            <label><input type="checkbox" name="concern" value="Aging"><span></span></label>
+            <label><input type="checkbox" name="concern" value="Hyperpigmentation/Dark Spots"><span></span></label>
+            <label><input type="checkbox" name="concern" value="Pores"><span></span></label>
+            <label><input type="checkbox" name="concern" value="Uneven texture"><span></span></label>
+            <label><input type="checkbox" name="concern" value="Uneven skin tone"><span></span></label>
+            <label><input type="checkbox" name="concern" value="Redness"><span></span></label>
+          </div>
+          <div class="buttons">
+            <button type="button" class="back" disabled>BACK</button>
+            <button type="submit" class="finish">NEXT</button>
+          </div>
+        </form>
+      </div>
+    </div>
+</div>
